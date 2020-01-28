@@ -92,7 +92,7 @@ objetivos têm de ser parcialmente ou totalmente cumpridos. Em particular:
 
 ## Entrega
 
-O projeto deve ser submetido no Moodle até às **23h00 de 3 de fevereiro de
+O projeto deve ser submetido no Moodle até às **23h00 de 11 de fevereiro de
 2020**. O projeto entregue deve ter os seguintes conteúdos:
 
 * Pasta escondida `.git` com o repositório Git local do projeto.
